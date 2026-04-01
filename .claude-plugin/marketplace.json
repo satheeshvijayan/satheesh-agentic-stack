@@ -1,0 +1,13 @@
+{
+  "name": "satheesh-marketplace",
+  "plugins": [
+    {
+      "name": "satheesh-agentic-stack",
+      "description": "Claude plugin optimized for backend, microservices, and agentic AI workflows",
+      "source": {
+        "type": "github",
+        "repo": "satheeshvijayan/satheesh-agentic-stack"
+      }
+    }
+  ]
+}

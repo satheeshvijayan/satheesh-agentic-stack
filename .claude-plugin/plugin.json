@@ -1,0 +1,24 @@
+{
+  "name": "satheesh-agentic-stack",
+  "description": "Optimized Claude plugin for Django, FastAPI, microservices, gRPC, and Agentic AI workflows",
+  "author": {
+    "name": "Satheesh Vijayan",
+    "url": "https://github.com/satheeshvijayan"
+  },
+  "homepage": "https://github.com/satheeshvijayan/satheesh-agentic-stack",
+  "repository": "https://github.com/satheeshvijayan/satheesh-agentic-stack",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "python",
+    "django",
+    "fastapi",
+    "microservices",
+    "grpc",
+    "agentic-ai",
+    "postgres",
+    "mongodb"
+  ],
+  "commands": "./commands",
+  "skills": "./skills"
+}
